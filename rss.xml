@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>harry.crawford /security-research</title>
+    <link>https://rrycrawford.com</link>
+    <description>Security write-ups, cheatsheets, labs, and tools.</description>
+    <language>en-us</language>
+    <atom:link href="https://rrycrawford.com/rss.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2026 19:40:12 GMT</lastBuildDate>
+
+  </channel>
+</rss>
