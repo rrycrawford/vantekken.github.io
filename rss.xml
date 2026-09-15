@@ -6,7 +6,15 @@
     <description>Security write-ups, cheatsheets, labs, and tools.</description>
     <language>en-us</language>
     <atom:link href="https://rrycrawford.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Sun, 09 Aug 2026 19:40:12 GMT</lastBuildDate>
-
+    <lastBuildDate>Tue, 15 Sep 2026 10:40:00 GMT</lastBuildDate>
+    <item>
+      <title>DEFCON 34: Android Workshop - Part 1</title>
+      <link>https://rrycrawford.com/posts/defcon-34-android-workshop-part-1</link>
+      <guid isPermaLink="true">https://rrycrawford.com/posts/defcon-34-android-workshop-part-1</guid>
+      <pubDate>Tue, 15 Sep 2026 10:40:00 GMT</pubDate>
+      <description><![CDATA[I&apos;m always interested in opportunities to improve my mobile app security testing capabilities, and I recently saw some Android mobile app labs shared online, which were developed by Sven Schleier for the Mobile Hacking Community at DEFCON 34. So, let&apos;s give it a go! At the end, we&apos;ll dig into some automation techniques and compare the results with our manual investigation. &#8230; <a href="https://rrycrawford.com/posts/defcon-34-android-workshop-part-1">Read more</a>]]></description>
+      <category>Mobile</category>
+      <category>Android</category>
+    </item>
   </channel>
 </rss>
