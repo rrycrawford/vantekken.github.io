@@ -6,12 +6,21 @@
     <description>Security write-ups, cheatsheets, labs, and tools.</description>
     <language>en-us</language>
     <atom:link href="https://rrycrawford.com/rss.xml" rel="self" type="application/rss+xml" />
-    <lastBuildDate>Tue, 15 Sep 2026 10:40:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:03:00 GMT</lastBuildDate>
+    <item>
+      <title>Core Networking Concepts in AWS: Stateful vs Stateless</title>
+      <link>https://rrycrawford.com/posts/core-networking-concepts-in-aws-stateful-vs-stateless</link>
+      <guid isPermaLink="true">https://rrycrawford.com/posts/core-networking-concepts-in-aws-stateful-vs-stateless</guid>
+      <pubDate>Sat, 31 Oct 2026 16:03:00 GMT</pubDate>
+      <description><![CDATA[Amazon Web Services&apos; Virtual Private Cloud (VPC) is the foundational networking layer for virtually every AWS workload. **Network Access Control Lists (NACLs)** and **Security Groups** implement firewall-like rules to restrict traffic in and out of that environment. Both sit at the perimeter of your infrastructure, both evaluate traffic rules, but they operate on fundamentally different principles — one is stateless, the other stateful. &#8230; <a href="https://rrycrawford.com/posts/core-networking-concepts-in-aws-stateful-vs-stateless">Read more</a>]]></description>
+      <category>AWS</category>
+      <category>Cloud</category>
+    </item>
     <item>
       <title>DEFCON 34: Android Workshop - Part 1</title>
       <link>https://rrycrawford.com/posts/defcon-34-android-workshop-part-1</link>
       <guid isPermaLink="true">https://rrycrawford.com/posts/defcon-34-android-workshop-part-1</guid>
-      <pubDate>Tue, 15 Sep 2026 10:40:00 GMT</pubDate>
+      <pubDate>Tue, 15 Sep 2026 11:40:00 GMT</pubDate>
       <description><![CDATA[I&apos;m always interested in opportunities to improve my mobile app security testing capabilities, and I recently saw some Android mobile app labs shared online, which were developed by Sven Schleier for the Mobile Hacking Community at DEFCON 34. So, let&apos;s give it a go! At the end, we&apos;ll dig into some automation techniques and compare the results with our manual investigation. &#8230; <a href="https://rrycrawford.com/posts/defcon-34-android-workshop-part-1">Read more</a>]]></description>
       <category>Mobile</category>
       <category>Android</category>
